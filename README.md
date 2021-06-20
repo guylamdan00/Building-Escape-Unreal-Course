@@ -1,4 +1,4 @@
-# Building-Escape-Unreal-Course
+# Building-Escape-Unreal-Engine
 This is a simple escape room game to showcase my current ability in Unreal Engine C++ programing.
 The game begins when the player spawns inside a castle, the castle's door is open and the player's goal is *to steal the golden Gargoyle and find a way out of the castle*, when the player reach to steal the Gargoyle the door close, and thus begins the player's quest to find the correct items to leave on the Gargoyle's pilllar untill the door open again this time with the golden Gargoyle in his hands.
 *Game Mechanics:*
